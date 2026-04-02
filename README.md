@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Munnaza 👋</h1>
 <h3 align="center">Aspiring SOC Analyst | Blue Team | SIEM • Log Analysis • Threat Detection</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/munaza-jamil1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://[www.linkedin.com/in/munaza-jamil1/](https://www.linkedin.com/in/munazajamil/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/munaza.jamil01"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://www.youtube.com/@itzmunazah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://munazajameel.site/blog"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
@@ -12,14 +12,14 @@
 🏠 Built a home SOC lab using VirtualBox with Kali Linux, Windows, and Ubuntu Server
 🔍 Focused on threat detection, SIEM, log analysis, and incident response
 📖 Currently studying for CompTIA Security+ and completing TryHackMe SOC Level 1
-🌍 Based in Pakistan | Open to Junior SOC Analyst / Security Analyst roles
+🌍 Based in Pakistan | Open to Internships / Junior SOC Analyst / Security Analyst roles
 ---
 🛡️ SOC & Blue Team Skills
 Category	Tools & Technologies
-SIEM	Wazuh, Splunk (Free Tier)
+SIEM	Wazuh, Kali Linux
 Log Analysis	Windows Event Viewer, Sysmon, Wazuh Alerts
 Network Analysis	Wireshark, Nmap, Netdiscover
-Threat Simulation	Kali Linux, Hydra, Metasploit, CrackMapExec
+Threat Simulation	Kali Linux, Hydra, Metasploit
 Operating Systems	Windows 10/11, Ubuntu Server, Kali Linux
 Frameworks	MITRE ATT&CK (awareness)
 ---
