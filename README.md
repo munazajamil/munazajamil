@@ -9,9 +9,6 @@
   <a href="https://tryhackme.com/p/munaza.jamil01">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@itzmunazah">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
   <a href="https://munazajameel.site/blog">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
