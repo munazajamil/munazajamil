@@ -61,11 +61,11 @@
 [✅] Ethical Hacking Fundamentals (all phases documented)
 [✅] CCNA (Cisco Certified Network Associate) Certification (Udemy)
 [✅] First SOC Project — SMB Brute Force Detection with Wazuh
-[🔄] TryHackMe SOC Level 1 Path — in progress
-[🔄] Expanding Wazuh lab — more attack scenarios
-[⬜] CompTIA Security+
-[⬜] Blue Team Labs Online — 3+ investigations
-[⬜] BTL1 Certification
+[✅] TryHackMe SOC Level 1 Path 
+[✅] Wazuh lab — more attack scenarios
+[✅] ELK Lab setup and logs collection
+[⬜] CompTIA Security+ in progress
+
 ```
 
 ---
