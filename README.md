@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Munnaza 👋</h1>
 
-<h3 align="center">Aspiring SOC Analyst | Blue Teaming | SIEM • Log Analysis • Threat Detection</h3>
+<h3 align="center">Cybersecurity | SOC Analyst | Blue Team | SIEM • Threat Detection • Incident Response</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/munazajamil/">
@@ -13,89 +13,89 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🛡️ About Me
 
-- 🎓 Completed a **6-month Cybersecurity Diploma** — self-learning and pushing towards the SOC domain
-- 🏠 Built a **home SOC lab** using VirtualBox with Kali Linux, Windows, and Wazuh
-- 🔍 Focused on **threat detection**, **SIEM**, **log analysis**, and **incident response**
-- 📖 Currently working through **TryHackMe SOC Level 1** path and expanding my lab scenarios
-- 🌍 Based in Pakistan | Open to **Junior SOC Analyst** / **Security Analyst** roles
+I'm a cybersecurity professional focused on **SOC operations, threat intelligence, SIEM, log analysis, and incident response**.
+
+* 🎓 Cybersecurity Diploma + hands-on SOC experience
+* 🔎 Experience with security monitoring, alert triage & investigation
+* ⚙️ Built SIEM/SOAR workflows and security monitoring labs
+* 🧪 Practiced malware traffic analysis & threat intelligence enrichment
+* 🌐 Exploring web security auditing and OSINT
+* 📍 Pakistan | Open to Junior Roles
 
 ---
 
-## 🛡️ SOC & Blue Team Skills
+## 🧰 Technical Skills
 
-| Category | Tools & Technologies |
-|---|---|
-| **SIEM** | Wazuh, Splunk (Free Tier) |
-| **Log Analysis** | Windows Event Viewer, Sysmon, Wazuh Alerts |
-| **Network Analysis** | Wireshark, Nmap, Netdiscover |
-| **Threat Simulation** | Kali Linux, Hydra, Metasploit |
-| **Operating Systems** | Windows 10/11, Kali Linux |
-| **Frameworks** | MITRE ATT&CK (awareness) |
+| Area                       | Tools                              |
+| -------------------------- | ---------------------------------- |
+| **SIEM**                   | Splunk, Wazuh, ELK                 |
+| **SOAR & Case Management** | Shuffle, Jira                      |
+| **Threat Detection**       | Sysmon, Windows Defender, YARA     |
+| **Network Analysis**       | Wireshark, Nmap                    |
+| **Threat Intelligence**    | VirusTotal, AbuseIPDB              |
+| **Security Testing**       | Burp Suite, Metasploit, Kali Linux |
+| **Systems**                | Windows, Linux                     |
+| **Frameworks**             | MITRE ATT&CK                       |
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🔵 Blue Team (SOC)
-| Project | Description | Tools |
-|---|---|---|
-| [SOC SMB BruteForce Detection](https://github.com/munazajamil/SOC-SMB-BruteForce-Detection) | Simulated SMB brute force attack, detected via SIEM alerts, wrote full incident report | Wazuh, Kali, Windows, CrackMapExec |
+### 🔵 SOC & Blue Team
 
-> *More SOC projects coming — actively building the lab 🚧*
+**Malware Traffic Investigation**
+Analyzed a malware PCAP, investigated network behavior, extracted IoCs and enriched indicators using threat intelligence.
 
-### 🔴 Ethical Hacking (Learning Phase)
-| Project | Description | Tools |
-|---|---|---|
-| [Ethical Hacking Lab](https://github.com/munazajamil/Ethical-Hacking-Lab) | Full pentest workflow: recon → exploit → post-exploit → report | Kali, Metasploit, Nmap |
-| [Scanning Phase Practice](https://github.com/munazajamil/Ethical-Hacking-Scanning-Phase) | Port scanning, host discovery, web vulnerability scanning | Nmap, Nikto, Zaproxy, Netdiscover |
+**ELK Security Monitoring Lab**
+Built centralized security monitoring with Windows logs, Sysmon, Defender and YARA detections.
+
+**SMB Brute Force Detection**
+Simulated an SMB brute-force attack and investigated the resulting Wazuh alerts.
+
+**Automated SOC Pipeline — SIEM → SOAR → Ticketing**
+Splunk alert detection → Shuffle automation → VirusTotal/AbuseIPDB enrichment → Jira ticket creation.
+
+### 🔴 Security Testing
+
+**Ethical Hacking Lab**
+Documented a practical penetration-testing workflow covering reconnaissance, scanning, exploitation and reporting.
+
+**Web Security Audit**
+Performed a security assessment of a web application and documented identified security findings.
 
 ---
 
-## 📈 My Learning Path
+## 📚 What I'm Currently Building
 
+```text
+SOC Operations
+    ↓
+SIEM & Log Analysis
+    ↓
+Threat Detection
+    ↓
+Incident Investigation
+    ↓
+Threat Intelligence
+    ↓
+Security Automation
+    ↓
+Web Security + OSINT
 ```
-[✅] Cybersecurity Diploma 
-[✅] Home Lab Setup — VirtualBox + Kali + Windows + Wazuh
-[✅] Ethical Hacking Fundamentals (all phases documented)
-[✅] CCNA (Cisco Certified Network Associate) Certification (Udemy)
-[✅] First SOC Project — SMB Brute Force Detection with Wazuh
-[✅] TryHackMe SOC Level 1 Path 
-[✅] Wazuh lab — more attack scenarios
-[✅] ELK Lab setup and logs collection
-[⬜] CompTIA Security+ in progress
 
-```
+I believe the best way to learn cybersecurity is to **build, investigate, document, and repeat**.
 
 ---
 
-## 🔥 TryHackMe Stats
-
-<p align="center">
-  <a href="https://tryhackme.com/p/munaza.jamil01">
-    <img src="https://tryhackme-badge.ram.al/api/munaza.jamil01" alt="TryHackMe Badge"/>
-  </a>
-</p>
-
-| Stat | Value |
-|---|---|
-| 🔥 **Highest Streak** | **103 days** |
-| 🏠 Rooms Completed | 30+ |
-| ⭐ Rank | Top 15% |
-| 🏅 Badges | 10+ |
-
----
-
-## 📬 Let's Connect
-
-I'm actively building my SOC skills and open to entry-level opportunities and collaborations.
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/munazajamil/">LinkedIn</a> •
-  <a href="https://tryhackme.com/p/munaza.jamil01">TryHackMe</a> •
+  <a href="https://instagram.com/munnaza.cyber">Instagram</a>
 </p>
 
----
-
-<p align="center"><i>"Every alert is a story. My job is to read it."</i></p>
+<p align="center">
+  <i>"Every alert tells a story. The analyst's job is to investigate it."</i>
+</p>
